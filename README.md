@@ -1,1 +1,2 @@
-# FlashCard_2-B
+# Flashcard
+Desenvolvendo uma ferramenta interativa de estudo
